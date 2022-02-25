@@ -25,7 +25,8 @@ a1 : [] => algorithm(dt).
 c1 :=> mandatory_transformation_for_algorithm([discretization], dt).
 c2 :=> invalid_transformation_set([normalization, discretization]).
 
-% The following part is the engine that allows the argumation to be performed. It will be hidden, since will be part of the HAMLET framework.
+% The following part is the engine that allows the argumation to be performed.
+% It will be hidden, since will be part of the HAMLET framework.
 
 g0 : algorithm(Z) => pipeline([], Z).
 g1 : transformation(X), transformation(Y), algorithm(Z), prolog(X \== Y) =>
