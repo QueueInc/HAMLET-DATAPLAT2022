@@ -13,9 +13,9 @@ In this part we will prepare the environment required to run all the examples.
 If nothing happens, check your _Java_ installation by following the instructions at point 1.
 4. You are now ready to run the example!
 
-## 
+## Example
 
-1. Pass the following theory in the _theroy_ section.
+1. Pass the following theory in the _theory_ section.
 
 ```
 t1 : [] => transformation(discretization).
