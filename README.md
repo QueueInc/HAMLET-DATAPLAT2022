@@ -42,4 +42,4 @@ member(T, X),
 
 2. To require the evalution use the predicate `buildLabelSets`. Just put it in the query section (__?-__) and press the __Solve__ button.
 
-![HAMLET](images/arg2p.png)
+![HAMLET](images/hamlet.png)
